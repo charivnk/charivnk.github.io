@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'uk'
+theme = 'blowfish'
+defaultContentLanguage = 'uk'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = ['en']
+enableRobotsTXT = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
