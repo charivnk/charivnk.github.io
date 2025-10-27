@@ -2,7 +2,7 @@ disabled = false
 languageCode = "uk"
 languageName = "Ukrainian"
 weight = 1
-title = "Додому"
+title = "Charivnk"
 
 [params]
   displayName = "UK"
