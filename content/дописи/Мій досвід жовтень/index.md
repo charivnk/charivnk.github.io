@@ -14,7 +14,7 @@ draft: false
 
 ## Настрій на сьогодні
 
-Do things you are proud of. What do you think is cool? 
+Do things you are proud of. What do you think is cool?   
 Роби речі якими ти будеш пишатись. Що для тебе круто ?
 
 ## Кожна помилка є кроком до успіху
